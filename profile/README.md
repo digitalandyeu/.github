@@ -1,12 +1,12 @@
-## Web Development, Design & Marketing
+# Web Development, Design & Marketing
 
-<!--
+[Dribble](https://dribbble.com/digitalandyeu) | [Facebook](https://www.facebook.com/digitalandy.eu) | [LinkedIn](https://www.linkedin.com/company/digitalandy-eu) | [Instagram](https://www.instagram.com/digitalandy.eu) | [Public Repo](https://digitalandyeu.github.io/digitalandyeu) | [DigitalOcean Referral](https://m.do.co/c/2f296ff0e26b)
 
-**Here are some ideas to get you started:**
+We are independent digital artists collaboration, united by freaky love for web, technologies, design, and marketing.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+### We do: 
+- Websites
+- Brands
+- Advertisements
+- IT support for Online Sales
+- Other small digital solutions for modern business needs
