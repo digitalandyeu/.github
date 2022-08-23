@@ -1,7 +1,5 @@
 # Web Development, Design & Marketing
 
-[Dribble](https://dribbble.com/digitalandyeu) | [Facebook](https://www.facebook.com/digitalandy.eu) | [LinkedIn](https://www.linkedin.com/company/digitalandy-eu) | [Instagram](https://www.instagram.com/digitalandy.eu) | [Public Repo](https://digitalandyeu.github.io/digitalandyeu) | [DigitalOcean Referral](https://m.do.co/c/2f296ff0e26b)
-
 We are independent digital artists collaboration, united by freaky love for web, technologies, design, and marketing.
 
 ### We do: 
@@ -10,3 +8,5 @@ We are independent digital artists collaboration, united by freaky love for web,
 - Advertisements
 - IT support for Online Sales
 - Other small digital solutions for modern business needs
+
+[Dribble](https://dribbble.com/digitalandyeu) | [Facebook](https://www.facebook.com/digitalandy.eu) | [LinkedIn](https://www.linkedin.com/company/digitalandy-eu) | [Instagram](https://www.instagram.com/digitalandy.eu) | [Public Repo](https://digitalandyeu.github.io/digitalandyeu) | [DigitalOcean Referral](https://m.do.co/c/2f296ff0e26b)
