@@ -6,6 +6,7 @@
 We are independent digital artists collaboration, united by freaky love for web, technologies, design, and marketing.
 
 ### We do:
+
 - Websites
 - Brands
 - Advertisements
