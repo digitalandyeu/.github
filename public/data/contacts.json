@@ -1,18 +1,18 @@
 [
-  {
-    "type": "email",
-    "href": "mailto:hi@digitalandy.eu"
-  },
-  {
-    "type": "telegram",
-    "href": "https://t.me/andriilive"
-  },
-  {
-    "type": "facebook-messenger",
-    "href": "https://m.me/digitalandy.eu"
-  },
-  {
-    "type": "whatsapp",
-    "href": "https://wa.me/message/SVBNVNLZ2W4FJ1"
-  }
+	{
+		"type": "email",
+		"href": "mailto:hi@digitalandy.eu"
+	},
+	{
+		"type": "telegram",
+		"href": "https://t.me/andriilive"
+	},
+	{
+		"type": "facebook-messenger",
+		"href": "https://m.me/digitalandy.eu"
+	},
+	{
+		"type": "whatsapp",
+		"href": "https://wa.me/message/SVBNVNLZ2W4FJ1"
+	}
 ]

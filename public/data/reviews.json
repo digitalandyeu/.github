@@ -1,19 +1,19 @@
 [
-  {
-    "name": "Google",
-    "href": "https://g.page/r/CZpjtequdbiXEB0/review"
-  },
-  {
-    "name": "Facebook",
-    "href": "https://www.facebook.com/digitalandy.eu/reviews"
-  },
-  {
-    "name": "LinkedIn",
-    "href": "https://www.linkedin.com/company/digitalandy-eu"
-  },
-  {
-    "name": "Vkontakte",
-    "lang": "ru",
-    "href": "https://vk.com/topic-116183169_35088484"
-  }
+	{
+		"name": "Google",
+		"href": "https://g.page/r/CZpjtequdbiXEB0/review"
+	},
+	{
+		"name": "Facebook",
+		"href": "https://www.facebook.com/digitalandy.eu/reviews"
+	},
+	{
+		"name": "LinkedIn",
+		"href": "https://www.linkedin.com/company/digitalandy-eu"
+	},
+	{
+		"name": "Vkontakte",
+		"lang": "ru",
+		"href": "https://vk.com/topic-116183169_35088484"
+	}
 ]

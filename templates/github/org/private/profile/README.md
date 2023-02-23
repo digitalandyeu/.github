@@ -3,6 +3,7 @@ google_pass: 'xxxxx'
 
 smtp_login: email@project.com  
 smtp_pass: 'xxxxx'
+
 ---
 
 # {%title}
@@ -15,10 +16,12 @@ WP: {%weburl}/wp/wp-login.php
 All usefull links and paswords are stored at google account:
 
 ### Google
+
 User: `{% google_user %}`  
 Pass: `{% google_pass %}`
 
 ## Emails 📧
+
 **admin:** [Email Admin]()  
 **email:** `{%smtp_login}`  
 **smtp-password:** `{%smtp_pass}`
@@ -28,5 +31,5 @@ Povered by VK Workspace email.
 See [IMAP, SMTP и POP3 configuration](https://)
 
 {% section %}  
-[Url](https://) | 
+[Url](https://) |
 {% endsection %}
