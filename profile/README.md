@@ -13,4 +13,4 @@ We are independent digital artists collaboration, united by freaky love for web,
 -   IT support for Online Sales
 -   Other small digital solutions for modern business needs
 
-[Instagram](https://www.instagram.com/digitalandy.eu) | [Contacts](./../public/data/contacts.json) | [Referrals](./../public/data/referrals.json) | [Reviews](./../public/data/reviews.json) | [Socials](./../public/data/socials.json)
+[Instagram](https://www.instagram.com/digitalandy.eu) | [Contacts](https://raw.githubusercontent.com/digitalandyeu/.github/main/public/data/contacts.json) | [Referrals](https://raw.githubusercontent.com/digitalandyeu/.github/main/public/data/referrals.json) | [Reviews](https://raw.githubusercontent.com/digitalandyeu/.github/main/public/data/reviews.json) | [Socials](https://raw.githubusercontent.com/digitalandyeu/.github/main/public/data/socials.json)
