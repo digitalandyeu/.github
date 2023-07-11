@@ -1,0 +1,23 @@
+#
+{{org.title}}
+
+{{#if labels.support_ua}}
+	[![StandWithUkraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://github.com/vshymanskyy/StandWithUkraine)
+{{/if}}
+{{#if labels.gitpod}}
+	[![GitPod](https://img.shields.io/badge/Contribute%20with-Gitpod-908a85?logo=gitpod)](https://gitpod.io/#https://github.com/{{org.user}}/.github)
+{{/if}}
+
+{{org.description}}
+
+{{#if org.list.title}}### {{org.list.title}}{{/if}}
+
+{{#if org.list.items}}{{#each org.list.items}}-
+		{{this}}
+	{{/each}}{{/if}}
+{{#if org.links.title}}### {{org.links.title}}{{/if}}
+{{#each org.links.items}}[{{this.title}}]({{this.href}}){{#if @last}}{{else}} | {{/if}}{{/each}}
+
+--- Maintained by [**@digitalandyeu**](https://github.com/digitalandyeu){{#if org.maintainedSinceYear}}
+	since
+	{{org.maintainedSinceYear}}{{/if}}. All rights reserved.

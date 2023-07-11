@@ -1,18 +1,18 @@
 [
 	{
-		"type": "email",
+		"id": "email",
 		"href": "mailto:hi@digitalandy.eu"
 	},
 	{
-		"type": "telegram",
+		"id": "telegram",
 		"href": "https://t.me/andriilive"
 	},
 	{
-		"type": "facebook-messenger",
+		"id": "facebook-messenger",
 		"href": "https://m.me/digitalandy.eu"
 	},
 	{
-		"type": "whatsapp",
+		"id": "whatsapp",
 		"href": "https://wa.me/message/SVBNVNLZ2W4FJ1"
 	}
 ]
