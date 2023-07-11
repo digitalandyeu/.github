@@ -13,11 +13,11 @@ export const partners = [
 ]
 
 export const partnersIdsCollector = partners.map((partner) => partner.id)
-export type PartnerId = typeof partnersIdsCollector[number]
+export type PartnerId = (typeof partnersIdsCollector)[number]
 export const partnerByIDGetter = (id: PartnerId) => partners.find((partner) => partner.id === id)
 
 export default {
 	partners,
 	partnersIdsCollector,
-	partnerByIDGetter
+	partnerByIDGetter,
 }

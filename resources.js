@@ -3,8 +3,8 @@
 
 export const resourcesTeam = {
 	avatars: {
-		'andrii': 'imgAvaAndrii',
-		'philipp': 'imgAvaPhilipp',
+		andrii: 'imgAvaAndrii',
+		philipp: 'imgAvaPhilipp',
 	},
 }
 

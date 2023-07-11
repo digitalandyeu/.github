@@ -260,7 +260,7 @@ namespace Socials {
 	export const links = socialsData
 	export const linksIds = socialsData.map(({ id }) => id)
 
-	export type LinkID = typeof linksIds[number]
+	export type LinkID = (typeof linksIds)[number]
 	export const getMember = (idSearch: LinkID) => socialsData.find(({ id }) => id === idSearch)
 	export const linksArray = () => socialsData.map(({ href }) => href)
 }
