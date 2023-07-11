@@ -2,14 +2,14 @@
 // import imgAvaPhilipp from './profile/static/img/team/ava_philipp.jpeg'
 
 export const resourcesTeam = {
-	avatars: {
-		andrii: 'imgAvaAndrii',
-		philipp: 'imgAvaPhilipp',
-	},
+  avatars : {
+    andrii : 'imgAvaAndrii',
+    philipp : 'imgAvaPhilipp',
+  },
 }
 
 const resources = {
-	team: resourcesTeam,
+  team : resourcesTeam,
 }
 
 export default resources
