@@ -7,11 +7,11 @@ We are independent digital artists collaboration, united by freaky love for web,
 
 ### We do
 
--   Websites
--   Brands
--   Advertisements
--   IT support for Online Sales
--   Other small digital solutions for modern business needs
+- Websites
+- Brands
+- Advertisements
+- IT support for Online Sales
+- Other small digital solutions for modern business needs
 
 [Figma starter](https://www.figma.com/file/0AdHJVIm34eSJ0eRissQfe/Starter-%3A-Web?node-id=1%3A12&t=2H9vpif7XKQGlwfp-1) | [Public data](./public/data/)
 

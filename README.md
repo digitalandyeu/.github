@@ -7,10 +7,10 @@ Generates and hosts public accessible assets and libraries using GitHub pages
 
 ### Assets
 
--   GitHub profile README.md
--   Handlebars templates
--   Static generated JSON Data
--   Common business assets
+- GitHub profile README.md
+- Handlebars templates
+- Static generated JSON Data
+- Common business assets
 
 ### Static webpage
 
