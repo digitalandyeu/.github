@@ -1,7 +1,9 @@
 # Web Development, Design & Marketing
 
 <!-- START BADGES -->
+
 [![StandWithUkraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://github.com/vshymanskyy/StandWithUkraine)
+
 <!-- END BADGES -->
 
 We are independent digital artists collaboration, united by freaky love for web, technologies, design, and marketing.
