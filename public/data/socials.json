@@ -275,5 +275,18 @@
 		"title": "",
 		"lang": "cz",
 		"weight": 3
+	},
+	{
+		"text": "Patreon",
+		"href": "https://www.patreon.com/digitalandyeu",
+		"title": "",
+		"weight": 3
+	},
+
+	{
+		"text": "Twich",
+		"href": "https://www.twitch.tv/digitalandyeu",
+		"title": "",
+		"weight": 3
 	}
 ]
