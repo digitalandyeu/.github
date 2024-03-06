@@ -6,7 +6,7 @@
 		"tags": ["dev"],
 		"actions": {
 			"github": "https://github.com/andriilive",
-			"whatsapp": false
+			"telegram": "https://t.me/digitalandyeu"
 		}
 	},
 	{
@@ -15,6 +15,7 @@
 		"desc": "UX Designer",
 		"tags": ["design"],
 		"actions": {
+			"dribble": "dribbble.com/philavr",
 			"linkedin": "https://www.linkedin.com/in/philavr",
 			"telegram": "https://t.me/philavr"
 		}
